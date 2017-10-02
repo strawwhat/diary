@@ -1,0 +1,15 @@
+five-threading205.py  == threading 模块
+five-threading207.py == 给出了派生同类线程的4种不同方法, 面向对象编程
+five-threading208.py == 线程锁中的打印操作需要用锁进行同步以避免重叠， 设定为守护线程
+five-threading210.py ==  queu模块 
+five-threading224.py == 进程的退出状态和共享状态， 线程的退出和共享状态
+five-pipe229.py  == 匿名管道
+five-pipe1=231.py == 把管道描述符封装进文件对象
+five-pipe1=232.py == 匿名管道和线程
+five-pipe233.py == 用匿名管道进行双向IPC
+touch five-pipe239.py == FIFO 具名管道(命名管道)
+five-socket243.py == socket 套接字 和线程
+five-signal245.py == signal 信号
+five-multiprocessing247.py == multiprocessing模块 
+（基本的操作和锁，管道，共享内存和全局对象，队列和子类，启动独立程序，进程池操作）
+five-spawn-launchmodes263.py == 启动程序的其他方法.os.spawn函数 ，#一个跨平台的程序启动框架
